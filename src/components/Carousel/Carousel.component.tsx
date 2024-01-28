@@ -12,15 +12,15 @@ export const Carousel = () => {
             showStatus={false}
         >
             <div className={style.container}>
-                <img src="src/assets/slider/1.jpg" />
+                <img src="./slider/1.jpg" />
                 {/* <p className="legend">Legend 1</p> */}
             </div>
             <div className={style.container}>
-                <img src="src/assets/slider/2.jpeg" />
+                <img src="./slider/2.jpeg" />
                 {/* <p className="legend">Legend 2</p> */}
             </div>
             <div className={style.container}>
-                <img src="src/assets/slider/3.jpg" />
+                <img src="./slider/3.jpg" />
                 {/* <p className="legend">Legend 3</p> */}
             </div>
         </CarouselLibrary>

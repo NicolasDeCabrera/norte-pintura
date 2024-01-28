@@ -2,7 +2,7 @@
     width: calc(100% - 10px);
     height: 118px;
     padding: 5px;
-    background-image: url(/src/assets/pintura-chorreando.png);
+    background-image: url("/pintura-chorreando.png");
     background-position: 100px 208px;
     display: flex;
     justify-content: space-between;
